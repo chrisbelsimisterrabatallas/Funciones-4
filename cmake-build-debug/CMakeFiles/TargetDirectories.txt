@@ -1,0 +1,3 @@
+C:/Users/frixo/funcionedad/cmake-build-debug/CMakeFiles/funcionedad.dir
+C:/Users/frixo/funcionedad/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/frixo/funcionedad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
